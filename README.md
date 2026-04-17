@@ -57,6 +57,7 @@ These results indicate that the system retrieves relevant information effectivel
    system_outputs/system_output_1.txt
    
 ## Project Structure
+.
 ├── data/
 │ ├── test/
 │ │ ├── questions.txt
